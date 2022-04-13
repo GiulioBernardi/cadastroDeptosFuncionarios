@@ -13,3 +13,7 @@ Projeto desenvolvido para cadastrar departamentos e funcionários
 * NodeJS
 * TypeScript
 * TypeORM
+
+
+Para acessar e obter um arquivo de uma pasta local, precisei utilizar uma extensão do Google Chrome chamada [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related)
+Essa extensão simula um servidor remoto e fica 'escutando' uma pasta que você decidir
